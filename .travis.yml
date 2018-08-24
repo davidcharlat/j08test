@@ -1,0 +1,6 @@
+language: c
+install:
+  - git clone $J08
+script:
+- bash ./test.sh
+
